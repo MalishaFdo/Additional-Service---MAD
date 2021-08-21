@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Service MAD Lab</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+</resources>
